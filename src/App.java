@@ -1,6 +1,6 @@
 /*
  * DSA PROJECT - MINESWEEPER
-Luong An Khang - ITITWE22140
+   Luong An Khang - ITITWE22140
  */
 import view.GUI.MenuView;
 
